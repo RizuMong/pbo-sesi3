@@ -1,6 +1,7 @@
-### Tugas Mata Kuliah Pemrograman Berbasis Objek Sesi 3
+##  Tugas Mata Kuliah Pemrograman Berbasis Objek Sesi 3
 
-Membuat Program Berbasis Objek untuk mengentri data nilai Pemrograman Java mahasiswa, memberi grade, menghitung rata-ratanya dan kemudian menampilkan data-data tersebut dengan ketentuan sebagai berikut :
+Membuat Program Berbasis Objek untuk mengentri data nilai Pemrograman Java mahasiswa, memberi grade, menghitung rata-ratanya dan kemudian menampilkan data-data tersebut dengan ketentuan sebagai berikut:
+
     a.	Input berupa NIM, NAMA dan NILAI dibuat menggunakan class Scanner
     b.	Nilai 100 – 80 mendapatkan Grade A (lulus)
     c.	Nilai 79 – 70 mendapatkan Grade B (lulus)
